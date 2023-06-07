@@ -1,3 +1,3 @@
-# gh-practice
+# git-practice
 
 some text here
